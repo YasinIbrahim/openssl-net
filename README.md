@@ -2,7 +2,7 @@
 
 ### Description
 
-A managed [OpenSSL](https://www.openssl.org/) wrapper written in C# for the 2.0 .NET Framework that exposes both the [Crypto API](https://www.openssl.org/docs/crypto/crypto.html) and the [SSL API](https://www.openssl.org/docs/ssl/ssl.html).
+A managed [OpenSSL](https://www.openssl.org/) wrapper written in C# for the 4.5 .NET Framework that exposes both the [Crypto API](https://www.openssl.org/docs/crypto/crypto.html) and the [SSL API](https://www.openssl.org/docs/ssl/ssl.html).
 
 This a must for .NET developers that need crypto but don't want to use Microsoft's SSPI.
 
